@@ -19,10 +19,22 @@ Single-colored icons can be modified like so:
   width: 1.25em;
 }
 
+.icon-email {
+  width: 0.75em;
+}
+
 .icon-phone {
   width: 0.75em;
 }
 
-.icon-email {
+.icon-check1 {
+  width: 1.25em;
+}
+
+.icon-phone1 {
+  width: 0.75em;
+}
+
+.icon-email1 {
   width: 0.75em;
 }
