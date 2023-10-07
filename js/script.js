@@ -1,5 +1,5 @@
 
-    /*(() => {
+    (() => {
         const refs = {
             openPopupBtn: document.querySelector('[data-popup-open]'),
             closePopupBtn: document.querySelector('[data-popup-close]'),
@@ -12,7 +12,7 @@
         function togglePopup() {
             refs.popup.classList.toggle('is-hidden');
         }
-    })();*/
+    })();
 
     // Меню бургер
     const iconMenu = document.querySelector('.menu-toggle');
